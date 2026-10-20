@@ -1,0 +1,3 @@
+<resources>
+    <style name="Theme.HostelFill" parent="android:Theme.Material.Light.NoActionBar" />
+</resources>
